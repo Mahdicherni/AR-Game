@@ -1,0 +1,11 @@
+Model Information:
+* title:	Flying Rat
+* source:	https://sketchfab.com/3d-models/flying-rat-e03574729e4f4f6a9ac9a65498ad30eb
+* author:	RainerWahnsinn (https://sketchfab.com/RainerWahnsinn)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Flying Rat" (https://sketchfab.com/3d-models/flying-rat-e03574729e4f4f6a9ac9a65498ad30eb) by RainerWahnsinn (https://sketchfab.com/RainerWahnsinn) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
